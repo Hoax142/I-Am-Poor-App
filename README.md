@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/Hoax142/github_assets/repository/I_am_poor/I_Am_Poor_Logo.png" width="850" height="150">
+<img src="https://cdn.jsdelivr.net/gh/Hoax142/github_assets/repository/I_am_poor/I_Am_Poor_Logo.png" width="800" height="150">
 
 <p align="center">
 	<h2 align="center">I Am Poor</h2>
@@ -6,6 +6,7 @@
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/Hoax142/github_assets/repository/I_am_poor/I_Am_Poor_Icon_Rounded.png" width="150" height="150">
+<figcaption>I am Poor App Icon</figcaption>
 </p>
 
 <!-- TABLE OF CONTENTS-->
