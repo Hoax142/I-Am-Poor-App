@@ -53,8 +53,6 @@ The I Am Poor app is a simple app that, once the button is pressed, the backgrou
 
 - iOS or iPadOS 13.0 or higher
 
----
-
 <!--WHAT I LEARNED-->
 
 ## What I learned
