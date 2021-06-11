@@ -10,11 +10,13 @@
 <img src="https://cdn.jsdelivr.net/gh/Hoax142/github_assets/repository/I_am_poor/I_Am_Poor_Icon_Rounded.png" width="100" height="100">
 </p>
 
+<p align="center">
 <img src="https://img.shields.io/badge/Swift-FA7343?style=plastic&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=plastic&logo=Xcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sketch-F7B500?style=plastic&logo=Sketch&logoColor=white"/>
 <img src="https://img.shields.io/badge/iOS-000000?style=plastic&logo=Apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/iPadOS-000000?style=plastic&logo=Apple&logoColor=white"/>
+</p>
 
 <!-- TABLE OF CONTENTS-->
 <details open = "open">
