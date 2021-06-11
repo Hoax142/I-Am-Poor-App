@@ -1,12 +1,13 @@
+<br>
 <img src="https://cdn.jsdelivr.net/gh/Hoax142/github_assets/repository/I_am_poor/I_Am_Poor_Logo.png" width="800" height="150">
 
+<br>
 <p align="center">
-	<h2 align="center">I Am Poor</h2>
+	<h1 align="center">I Am Poor</h1>
 </p>
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/Hoax142/github_assets/repository/I_am_poor/I_Am_Poor_Icon_Rounded.png" width="150" height="150">
-<figcaption>I am Poor App Icon</figcaption>
+<img src="https://cdn.jsdelivr.net/gh/Hoax142/github_assets/repository/I_am_poor/I_Am_Poor_Icon_Rounded.png" width="100" height="100">
 </p>
 
 <!-- TABLE OF CONTENTS-->
