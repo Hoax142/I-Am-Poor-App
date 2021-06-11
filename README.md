@@ -11,6 +11,8 @@
 </p>
 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=plastic&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=plastic&logo=Xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-F7B500?style=plastic&logo=Sketch&logoColor=white"/>
 
 <!-- TABLE OF CONTENTS-->
 <details open = "open">
