@@ -1,4 +1,4 @@
-![Logo](https://cdn.jsdelivr.net/gh/Hoax142/github_assets/blog/img/Full_Logo_With_Background.png){: width="400"}
+![Logo](https://cdn.jsdelivr.net/gh/Hoax142/github_assets/blog/img/Full_Logo_With_Background.png = 400 * 200)
 
 # I AM POOR
 
