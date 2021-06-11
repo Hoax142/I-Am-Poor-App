@@ -44,8 +44,8 @@ The I Am Poor app is a simple app that, once the button is pressed, the backgrou
 
 ### Built With
 
-- Xcode
-- Sketch
+- Sketch (version 72.4)
+- Xcode (version 12.5)
 
 ### Requsites
 
@@ -55,11 +55,17 @@ The I Am Poor app is a simple app that, once the button is pressed, the backgrou
 
 ## What I learned
 
-I Am Poor is the first app I have ever made. To make this app I
+- Sketch
+  Making app icons, and simple images such as diamonds and coals.
+
+- Xcode
+  Using buttons, image views, labels in the storyboard.
+  Auto layouts and constraints between elements.
+  Programmatically changing button, text, image view's attributes.
 
 <!--CONTACT-->
 
 ## Contact
 
 - email : hyoh0606@gmail.com
-- blog: [My Blog](hoax142@github.io)
+- blog: [hoax142's blog](https://hoax142.github.io)
