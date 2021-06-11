@@ -20,7 +20,7 @@
 			</ul>
 		</li>
 		<li>
-			<a href="what-i-learned">What I Learned</a>
+			<a href="#what-i-learned">What I Learned</a>
 		</li>
 	</ol>	
 <br>
