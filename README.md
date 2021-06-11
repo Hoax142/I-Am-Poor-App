@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/Hoax142/github_assets/repository/I_am_poor/I_Am_Poor_Logo.png" width="900" height="150">
+<img src="https://cdn.jsdelivr.net/gh/Hoax142/github_assets/repository/I_am_poor/I_Am_Poor_Logo.png" width="850" height="150">
 
 <p align="center">
 	<h2 align="center">I Am Poor</h2>
@@ -21,6 +21,9 @@
 		</li>
 		<li>
 			<a href="#what-i-learned">What I Learned</a>
+		</li>
+				<li>
+			<a href="#contact">Contact</a>
 		</li>
 	</ol>	
 <br>
@@ -52,4 +55,11 @@ The I Am Poor app is a simple app that, once the button is pressed, the backgrou
 
 ## What I learned
 
-I Am Poor is the first app I have ever made. And from this app I have learned a lot, starting from designing an app icon, to using Xcode and Swift.
+I Am Poor is the first app I have ever made. To make this app I
+
+<!--CONTACT-->
+
+## Contact
+
+- email : hyoh0606@gmail.com
+- blog: [My Blog](hoax142@github.io)
