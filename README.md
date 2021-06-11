@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/Hoax142/github_assets/repository/I_am_poor/I_Am_Poor_Icon_Rounded.png" width="100" height="100">
 </p>
 
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=orange"/></a>&nbsp
+<img src="https://img.shields.io/badge/Swift-FA7343?style=plastic&logo=Swift&logoColor=white"/>
 
 <!-- TABLE OF CONTENTS-->
 <details open = "open">
