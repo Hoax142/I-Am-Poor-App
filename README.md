@@ -55,6 +55,8 @@ The I Am Poor app is a simple app that, once the button is pressed, the backgrou
 
 ---
 
+<!--WHAT I LEARNED-->
+
 ## What I learned
 
 I Am Poor is the first app I have ever made. And from this app I have learned a lot, starting from designing an app icon, to using Xcode and Swift.
