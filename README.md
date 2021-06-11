@@ -1,4 +1,4 @@
-![Logo](https://cdn.jsdelivr.net/gh/Hoax142/github_assets/blog/img/Full_Logo_With_Background.png =400*200)
+<img src="https://cdn.jsdelivr.net/gh/Hoax142/github_assets/blog/img/Full_Logo_With_Background.png" width="400" height="250">
 
 # I AM POOR
 
